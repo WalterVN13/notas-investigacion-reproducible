@@ -1,5 +1,7 @@
-# notas-investigacion-reproducible
-Walter Varela Navarro, C18154.
+# notas-investigacion-reproducible  
+### Tarea 1, Procesameinto de datos geográficos Walter Varela Navarro, C18154.
+
+# Notas sobre investigación reproducible y análisis de datos
 
 ## **Reproducibilidad.**
 
